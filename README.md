@@ -8,10 +8,10 @@ Entretanto, caso o usuário queira pausar o tempo, ou então, zerar o tempo, o b
 
 Deploy do projeto:
 
-Botão "VAI" para iniciar o cronômetro.
+Botão "VAI" para iniciar a contagem do cronômetro.
 
 ![1](https://user-images.githubusercontent.com/89169958/149671710-64898db3-fbfe-48c1-a64f-093dcce6d1c8.gif)
 
-Botão de "PAUSAR" e "ZERAR" o cronômetro
+Botão de "PAUSAR" e "ZERAR" a contagem do cronômetro
 
 ![2](https://user-images.githubusercontent.com/89169958/149671728-da5a066a-c28b-436a-9674-051c9a1ab99c.gif)
