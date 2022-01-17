@@ -1,5 +1,5 @@
 
-Desenvolvi o cronômetro utilizando o framework React Js, para estar obtendo mais conhecimentos no framework e para estar treinando já as minha habilidades adquiridas.
+Desenvolvi o cronômetro utilizando a biblioteca React Js, para estar obtendo mais conhecimentos e para estar treinando as minhas habilidades já adquiridas.
 
 O Cronômetro tem o intuito de contar os segundos a partir do momento que o usuário clica no botão "VAI", já começa a contar o tempo.
 
