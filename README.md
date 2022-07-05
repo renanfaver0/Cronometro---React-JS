@@ -1,5 +1,5 @@
 
-## Projeto Cronômetro
+## Cronômetro
 
 Desenvolvi o cronômetro utilizando a biblioteca React Js, para estar obtendo mais conhecimentos e para estar treinando as minhas habilidades já adquiridas.
 
